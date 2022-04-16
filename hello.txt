@@ -1,4 +1,1 @@
-hello Git.
-This is keynes fang.
-good job.
-come
+git remote add origin git@github.com:keynesfang/learngit.git
